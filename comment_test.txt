@@ -1,0 +1,3 @@
+<b>b</b>, <strong>strong</strong>, <i>i</i>, <em>em</em>, <br/>
+<blockquote>blockquote,</blockquote> <br/>
+<code>code</code>, <cite>cite</cite>, <strike>strike</strike>, <a href="http://omninoggin.com">a</a>
